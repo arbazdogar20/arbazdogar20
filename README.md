@@ -2,16 +2,16 @@
 
 🎓 Master’s student in Software Engineering in France 🇫🇷  
 💻 Interested in Front-End and Full-Stack development  
-🚀 Looking for a **6-month internship starting March 2026**
+🚀 Looking for a **6-month internship starting July 2026**
 
 ---
 
 ### 🛠 Tech
 - **Languages:** JavaScript, TypeScript, Python  
 - **Frontend:** React, Next.js  
-- **Backend:** Node.js  
+- **Backend:** Node.js, Express Js, Nest Js  
 - **Database:** MongoDB, Postgresql  
-- **Tools:** Git, REST APIs, Docker (basics)
+- **Tools:** Git, REST APIs, Docker (basics), Prisma
 
 ---
 
